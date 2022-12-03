@@ -3,7 +3,7 @@
 
 
 - 🔭Focado em desenvolvimento Front End.
-- 🌱 Atualmente estudando ReactJs.
+- 🌱 Atualmente estudando ReactJs | NodeJs.
 
 ##
  <div>
