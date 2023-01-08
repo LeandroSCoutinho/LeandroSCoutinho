@@ -1,7 +1,7 @@
 ### Olá! 👋 Eu sou Leandro Coutinho. 
+<img align="right" alt="teclado" height="90" width="90" src="https://media.tenor.com/bY_nIswRP9gAAAAd/teclado-anime.gif">
 
 ##
-<img align="right" alt="teclado" height="90" width="90" src="https://media.tenor.com/bY_nIswRP9gAAAAd/teclado-anime.gif">
 
 - 🔭Focado em desenvolvimento Front End.
 - 🌱 Atualmente estudando ReactJs | NodeJs.  
