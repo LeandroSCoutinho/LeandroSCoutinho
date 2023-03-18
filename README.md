@@ -1,5 +1,4 @@
 ### Olá! 👋 Eu sou Leandro Coutinho. 
-<img align="right" alt="teclado" height="90" width="90" src="https://media.tenor.com/bY_nIswRP9gAAAAd/teclado-anime.gif">
 
 ##
 
