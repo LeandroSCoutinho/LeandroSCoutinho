@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭Focado em desenvolvimento Front End.
-- 🌱 Atualmente estudando ReactJs | NodeJs.  
+- 🔭 Afinidade com desenvolvimento Front End.
+- 🌱 Atualmente estudando Python | Django.  
 
 
 ##
