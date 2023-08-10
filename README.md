@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Afinidade com desenvolvimento Front End.
-- 🌱 Atualmente estudando Python | Django.  
+- 🌱 Atualmente estudando ReactJs | NodeJs.  
 
 
 ##
