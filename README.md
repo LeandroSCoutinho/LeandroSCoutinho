@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Afinidade com desenvolvimento Front End.
-- 🌱 Atualmente estudando PHP.  
+- 🌱 Atualmente estudando Javascript.  
 
 
 ##
